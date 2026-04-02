@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I'm Jimish 👋
 
-<!--
-**jimishm/jimishm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working On
+- 🔨 [Synthetic Data Engine (name TBD)] — [a tool that generates realistic patient-level data and case vignettes for training students and AI models]
+- 📚 [Experimenting with Claude Code]
+- 🤝 [Feedback from medical educators and health tech AI developers; product leadership roles]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/jimishmehta/)
+- 📧 [Email](mailto:jimishmehta1@gmail.com)
+- ⚡ Fun fact: I play bass in [The Indestructible Water Bear](https://theindestructiblewaterbear.com/)
+---
+*PM who builds things. Currently exploring synthetic patient data for model annotations and training.*
