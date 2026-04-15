@@ -1,8 +1,8 @@
 ## Hey, I'm Jimish 👋
 
 ## What I'm Working On
-- 🔨 Synthetic Data Engine (name TBD) — a tool that generates realistic patient-level data and case vignettes for training students and AI models
-- 📚 Experimenting with Claude Code
+- 🔨 Synthetic Case Engine (CaseCast) — a tool that generates realistic patient-level data and case vignettes for training students and AI models
+- 📚 Experimenting with Claude Code for PM tools
 - 🤝 Feedback from medical educators and health tech AI developers; product leadership roles
 
 
